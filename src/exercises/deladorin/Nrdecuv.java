@@ -18,6 +18,8 @@ public class Nrdecuv {
 
     }
 
+
+    //good
     public static int numaralitere(List<String> list) {
         int a = 0;
         for (int i = 0; i <list.size() ; i++) {

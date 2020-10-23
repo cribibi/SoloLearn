@@ -1,7 +1,4 @@
-package exercises;
-
-import sun.net.www.content.text.Generic;
-import sun.reflect.generics.factory.GenericsFactory;
+package exercises.deladorin;
 
 import java.util.*;
 

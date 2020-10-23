@@ -1,6 +1,8 @@
 package exercises;
 
 //96. Afiseaza tabla inmultirii de la 1 la 10.
+
+//good
 public class Mtable {
     public static void main(String[] args) {
         for (int i = 1; i <11 ; i++) {
