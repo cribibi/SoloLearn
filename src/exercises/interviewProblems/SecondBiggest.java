@@ -1,4 +1,4 @@
-package exercises.deladorin;
+package exercises.interviewProblems;
 
 import java.util.ArrayList;
 import java.util.List;
